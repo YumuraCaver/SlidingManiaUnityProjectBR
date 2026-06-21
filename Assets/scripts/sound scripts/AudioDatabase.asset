@@ -1,0 +1,107 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0cac1c88e1a36e44b96d0f17b97c6b67, type: 3}
+  m_Name: AudioDatabase
+  m_EditorClassIdentifier: 
+  sounds:
+  - soundName: UIhoverOLD
+    volume: 0.436
+    clips:
+    - {fileID: 8300000, guid: e5f1dc67c6c77c344be47ac887eddd75, type: 3}
+  - soundName: UIhover
+    volume: 0.463
+    clips:
+    - {fileID: 8300000, guid: bab291d0c00748a4596cabaf2a5599a2, type: 3}
+    - {fileID: 8300000, guid: 4e1cfde228b0c5f4a98d856c320ff4e2, type: 3}
+    - {fileID: 8300000, guid: ff8ad4f7942557d4d9808746a2b1c51f, type: 3}
+    - {fileID: 8300000, guid: 37b0af659ac199d438cdd45dc2777131, type: 3}
+  - soundName: UIhoverOLD2
+    volume: 0.57
+    clips:
+    - {fileID: 8300000, guid: 7fe19cb88f2783d4aa4d2b0bbe91d2ed, type: 3}
+    - {fileID: 8300000, guid: 68ab3e156310e4846ae55bb567f973b9, type: 3}
+  - soundName: UIclick
+    volume: 0.906
+    clips:
+    - {fileID: 8300000, guid: 183492c0bcc7e9341928b04e9242018d, type: 3}
+  - soundName: mucha
+    volume: 0.906
+    clips:
+    - {fileID: 8300000, guid: 50887909a1b49024f8c40ddab83be34f, type: 3}
+    - {fileID: 8300000, guid: f87f9e286c00c29439149fb12a4738bf, type: 3}
+    - {fileID: 8300000, guid: f00c40b4c4da23040b4620323c9a895b, type: 3}
+    - {fileID: 8300000, guid: f3b1fda43abee5248a1e27ace8e46d1c, type: 3}
+  - soundName: pocoto
+    volume: 0.78
+    clips:
+    - {fileID: 8300000, guid: 0042d8d4f1535234ea23b72e97beac64, type: 3}
+  - soundName: pecoto
+    volume: 0.906
+    clips:
+    - {fileID: 8300000, guid: 94a1ffb7ee51cae40a6ebdb260c53a4e, type: 3}
+  - soundName: switch
+    volume: 0.906
+    clips:
+    - {fileID: 8300000, guid: 0f11e5376566c474aa03e955df72e909, type: 3}
+  - soundName: exit
+    volume: 0.906
+    clips:
+    - {fileID: 8300000, guid: 2d78c3157d503524ba53f5556b9f919b, type: 3}
+  - soundName: victory
+    volume: 0.906
+    clips:
+    - {fileID: 8300000, guid: bf0375476c1e4cc409cfdb7a3a745a7e, type: 3}
+  - soundName: battery hit
+    volume: 0.601
+    clips:
+    - {fileID: 8300000, guid: 50ea9e06b50d9db42ada5a2a7ab7d582, type: 3}
+  - soundName: boring pong
+    volume: 0.906
+    clips:
+    - {fileID: 8300000, guid: 1c8562532779c3243ae57b07a560a9a6, type: 3}
+  - soundName: tile slide
+    volume: 0.906
+    clips:
+    - {fileID: 8300000, guid: fa62a4b75e5c06849893ce1c71e85bff, type: 3}
+  - soundName: tile grab
+    volume: 0.906
+    clips:
+    - {fileID: 8300000, guid: 882d626d6ca09c145ae1b867671409cd, type: 3}
+  - soundName: tile hover
+    volume: 0.255
+    clips:
+    - {fileID: 8300000, guid: 68ab3e156310e4846ae55bb567f973b9, type: 3}
+    - {fileID: 8300000, guid: 7fe19cb88f2783d4aa4d2b0bbe91d2ed, type: 3}
+  - soundName: tile release
+    volume: 0.906
+    clips:
+    - {fileID: 8300000, guid: b5e5230a21b4be7439b35616a01eb011, type: 3}
+    - {fileID: 8300000, guid: caf93c61ba757314a969827ef849be0d, type: 3}
+    - {fileID: 8300000, guid: 37b0af659ac199d438cdd45dc2777131, type: 3}
+    - {fileID: 8300000, guid: 37b0af659ac199d438cdd45dc2777131, type: 3}
+    - {fileID: 8300000, guid: 6eca7ae64cf2e7d419141e04008f0152, type: 3}
+  - soundName: game over
+    volume: 0.483
+    clips:
+    - {fileID: 8300000, guid: 73ab6141de4e62d45b5bb6d2fa88d490, type: 3}
+  - soundName: alarm
+    volume: 0.655
+    clips:
+    - {fileID: 8300000, guid: da91d8e9bb34d9d4ab5c6d1fde1232f2, type: 3}
+  - soundName: start
+    volume: 0.906
+    clips:
+    - {fileID: 8300000, guid: 352a7ab9bc76f424f9f579f6f83b2b30, type: 3}
+  - soundName: reset
+    volume: 0.906
+    clips:
+    - {fileID: 8300000, guid: 8ee088b9b60579a46b9ab20befcdf0f6, type: 3}
